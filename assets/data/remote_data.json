@@ -1,0 +1,473 @@
+{
+  "version": 2,
+  "currencies": {
+    "USD": 1.0,
+    "EUR": 0.91,
+    "GBP": 0.79,
+    "INR": 83.2,
+    "JPY": 149.5,
+    "KRW": 1340.0,
+    "CNY": 7.24,
+    "BTC": 0.000025
+  },
+  "billionaires": [
+    {
+      "id": 1,
+      "name": "Elon Musk",
+      "net_worth_usd": 250000000000,
+      "image": "elon_musk.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jeff Bezos",
+      "net_worth_usd": 170000000000,
+      "image": "jeff_bezos.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bernard Arnault",
+      "net_worth_usd": 210000000000,
+      "image": "bernard_arnault.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bill Gates",
+      "net_worth_usd": 130000000000,
+      "image": "bill_gates.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Warren Buffett",
+      "net_worth_usd": 125000000000,
+      "image": "warren_buffett.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Larry Ellison",
+      "net_worth_usd": 150000000000,
+      "image": "larry_ellison.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Larry Page",
+      "net_worth_usd": 120000000000,
+      "image": "larry_page.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sergey Brin",
+      "net_worth_usd": 115000000000,
+      "image": "sergey_brin.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Mark Zuckerberg",
+      "net_worth_usd": 118000000000,
+      "image": "mark_zuckerberg.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Steve Ballmer",
+      "net_worth_usd": 122000000000,
+      "image": "steve_ballmer.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Mukesh Ambani",
+      "net_worth_usd": 95000000000,
+      "image": "mukesh_ambani.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Gautam Adani",
+      "net_worth_usd": 85000000000,
+      "image": "gautam_adani.jpg"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "Luxury Mansion",
+      "price_usd": 50000000,
+      "image": "mansion.jpg",
+      "description": "A beautiful seaside mansion with 20 bedrooms.",
+      "category": "real_estate"
+    },
+    {
+      "id": 2,
+      "name": "Private Yacht",
+      "price_usd": 200000000,
+      "image": "yacht.jpg",
+      "description": "A 300-foot luxury yacht with helicopter pad.",
+      "category": "vehicles"
+    },
+    {
+      "id": 3,
+      "name": "Private Jet",
+      "price_usd": 75000000,
+      "image": "private_jet.jpg",
+      "description": "Gulfstream G650 - The ultimate in luxury travel.",
+      "category": "vehicles"
+    },
+    {
+      "id": 4,
+      "name": "Sports Car Collection",
+      "price_usd": 10000000,
+      "image": "sports_car.jpg",
+      "description": "10 of the world's most exotic supercars.",
+      "category": "vehicles"
+    },
+    {
+      "id": 5,
+      "name": "Private Island",
+      "price_usd": 100000000,
+      "image": "island.jpg",
+      "description": "Your own tropical paradise in the Caribbean.",
+      "category": "real_estate"
+    },
+    {
+      "id": 6,
+      "name": "Skyscraper",
+      "price_usd": 850000000,
+      "image": "skyscraper.jpg",
+      "description": "A 60-story office tower in Manhattan.",
+      "category": "real_estate"
+    },
+    {
+      "id": 7,
+      "name": "Tank",
+      "price_usd": 8000000,
+      "image": "tank.jpg",
+      "description": "M1 Abrams battle tank (decommissioned).",
+      "category": "military"
+    },
+    {
+      "id": 8,
+      "name": "Fighter Jet",
+      "price_usd": 100000000,
+      "image": "fighter_jet.jpg",
+      "description": "F-35 Lightning II stealth fighter.",
+      "category": "military"
+    },
+    {
+      "id": 9,
+      "name": "Space Tourism Ticket",
+      "price_usd": 500000,
+      "image": "space_ticket.jpg",
+      "description": "A trip to the edge of space.",
+      "category": "experiences"
+    },
+    {
+      "id": 10,
+      "name": "NFL Team",
+      "price_usd": 5000000000,
+      "image": "nfl_team.jpg",
+      "description": "Own an entire NFL franchise.",
+      "category": "business"
+    },
+    {
+      "id": 11,
+      "name": "Premier League Club",
+      "price_usd": 3000000000,
+      "image": "football_club.jpg",
+      "description": "Own a top-tier English football club.",
+      "category": "business"
+    },
+    {
+      "id": 12,
+      "name": "Movie Studio",
+      "price_usd": 10000000000,
+      "image": "movie_studio.jpg",
+      "description": "A major film production company.",
+      "category": "business"
+    },
+    {
+      "id": 13,
+      "name": "Cruise Ship",
+      "price_usd": 1000000000,
+      "image": "cruise_ship.jpg",
+      "description": "A luxury ocean liner for 3000 passengers.",
+      "category": "vehicles"
+    },
+    {
+      "id": 14,
+      "name": "Art Collection",
+      "price_usd": 500000000,
+      "image": "art_collection.jpg",
+      "description": "Masterpieces from Picasso, Van Gogh, and more.",
+      "category": "luxury"
+    },
+    {
+      "id": 15,
+      "name": "Satellite",
+      "price_usd": 300000000,
+      "image": "satellite.jpg",
+      "description": "Your own communication satellite.",
+      "category": "technology"
+    },
+    {
+      "id": 16,
+      "name": "Submarine",
+      "price_usd": 2000000000,
+      "image": "submarine.jpg",
+      "description": "A luxury private submarine.",
+      "category": "vehicles"
+    },
+    {
+      "id": 17,
+      "name": "Casino Resort",
+      "price_usd": 4000000000,
+      "image": "casino.jpg",
+      "description": "A Las Vegas-style mega resort.",
+      "category": "business"
+    },
+    {
+      "id": 18,
+      "name": "Diamond Mine",
+      "price_usd": 1500000000,
+      "image": "diamond_mine.jpg",
+      "description": "A productive diamond mine in Africa.",
+      "category": "business"
+    },
+    {
+      "id": 19,
+      "name": "Formula 1 Team",
+      "price_usd": 1000000000,
+      "image": "f1_teams.jpg",
+      "description": "Own and operate an F1 racing team.",
+      "category": "business"
+    },
+    {
+      "id": 20,
+      "name": "Rocket to Mars",
+      "price_usd": 10000000000,
+      "image": "mars_rocket.jpg",
+      "description": "Fund your own Mars colonization mission.",
+      "category": "technology"
+    },
+    {
+      "id": 21,
+      "name": "iPhone 17 Pro Max",
+      "price_usd": 1599,
+      "image": "iphone.jpg",
+      "description": "Latest flagship smartphone from Apple.",
+      "category": "electronics"
+    },
+    {
+      "id": 22,
+      "name": "MacBook Pro M3",
+      "price_usd": 3499,
+      "image": "macbook.jpg",
+      "description": "Most powerful MacBook Pro with M3 Max chip.",
+      "category": "electronics"
+    },
+    {
+      "id": 23,
+      "name": "Tesla Model S Plaid",
+      "price_usd": 109990,
+      "image": "tesla.jpg",
+      "description": "Fastest production car with 1,020 horsepower.",
+      "category": "vehicles"
+    },
+    {
+      "id": 24,
+      "name": "PlayStation 5 Pro",
+      "price_usd": 699,
+      "image": "ps5.jpg",
+      "description": "Next-gen gaming console.",
+      "category": "electronics"
+    },
+    {
+      "id": 25,
+      "name": "Rolex Daytona",
+      "price_usd": 35000,
+      "image": "rolex.jpg",
+      "description": "Iconic luxury watch.",
+      "category": "luxury"
+    },
+    {
+      "id": 26,
+      "name": "Louis Vuitton Bag",
+      "price_usd": 5000,
+      "image": "lv_bag.jpg",
+      "description": "Designer handbag.",
+      "category": "luxury"
+    },
+    {
+      "id": 27,
+      "name": "Netflix Subscription (Lifetime)",
+      "price_usd": 3000,
+      "image": "netflix.jpg",
+      "description": "Stream forever, no monthly fees.",
+      "category": "entertainment"
+    },
+    {
+      "id": 28,
+      "name": "Gaming PC Setup",
+      "price_usd": 5000,
+      "image": "gaming_pcs.jpg",
+      "description": "High-end gaming rig with RTX 4090.",
+      "category": "electronics"
+    },
+    {
+      "id": 29,
+      "name": "Big Mac",
+      "price_usd": 5.69,
+      "image": "bigmacs.jpg",
+      "description": "Classic McDonald's burger.",
+      "category": "food"
+    },
+    {
+      "id": 30,
+      "name": "Starbucks Coffee",
+      "price_usd": 5.95,
+      "image": "starbucks.jpg",
+      "description": "Venti Caramel Macchiato.",
+      "category": "food"
+    },
+    {
+      "id": 31,
+      "name": "Pizza Delivery",
+      "price_usd": 25,
+      "image": "pizza.jpg",
+      "description": "Large pepperoni pizza with sides.",
+      "category": "food"
+    },
+    {
+      "id": 32,
+      "name": "Spotify Premium (Year)",
+      "price_usd": 120,
+      "image": "spotify.jpg",
+      "description": "Ad-free music for 12 months.",
+      "category": "entertainment"
+    },
+    {
+      "id": 33,
+      "name": "Nintendo Switch OLED",
+      "price_usd": 349,
+      "image": "switchs.jpg",
+      "description": "Portable gaming console.",
+      "category": "electronics"
+    },
+    {
+      "id": 34,
+      "name": "AirPods Pro",
+      "price_usd": 249,
+      "image": "airpods.jpg",
+      "description": "Wireless earbuds with noise cancellation.",
+      "category": "electronics"
+    },
+    {
+      "id": 35,
+      "name": "Nike Air Jordan 1",
+      "price_usd": 200,
+      "image": "jordans.jpg",
+      "description": "Iconic basketball sneakers.",
+      "category": "fashion"
+    },
+    {
+      "id": 36,
+      "name": "4K Smart TV 75\"",
+      "price_usd": 1200,
+      "image": "smart_tv.jpg",
+      "description": "Large screen OLED television.",
+      "category": "electronics"
+    },
+    {
+      "id": 37,
+      "name": "Dyson Airwrap",
+      "price_usd": 599,
+      "image": "dyson.jpg",
+      "description": "Premium hair styling tool.",
+      "category": "beauty"
+    },
+    {
+      "id": 38,
+      "name": "Supreme Box Logo Hoodie",
+      "price_usd": 800,
+      "image": "supremes.jpg",
+      "description": "Streetwear hype clothing.",
+      "category": "fashion"
+    },
+    {
+      "id": 39,
+      "name": "Peloton Bike",
+      "price_usd": 1495,
+      "image": "pelotons.jpg",
+      "description": "Interactive fitness bike.",
+      "category": "fitness"
+    },
+    {
+      "id": 40,
+      "name": "Canon EOS R5",
+      "price_usd": 3899,
+      "image": "camera.jpg",
+      "description": "Professional mirrorless camera.",
+      "category": "electronics"
+    },
+    {
+      "id": 41,
+      "name": "DJI Mavic 3 Drone",
+      "price_usd": 2199,
+      "image": "drone.jpg",
+      "description": "Professional aerial photography drone.",
+      "category": "electronics"
+    },
+    {
+      "id": 42,
+      "name": "Gucci Belt",
+      "price_usd": 450,
+      "image": "gucci_belts.jpg",
+      "description": "Designer leather belt.",
+      "category": "fashion"
+    },
+    {
+      "id": 43,
+      "name": "Year of Gym Membership",
+      "price_usd": 600,
+      "image": "gym.jpg",
+      "description": "Premium fitness club annual pass.",
+      "category": "fitness"
+    },
+    {
+      "id": 44,
+      "name": "Chanel Perfume",
+      "price_usd": 175,
+      "image": "chanel.jpg",
+      "description": "No. 5 Eau de Parfum.",
+      "category": "beauty"
+    },
+    {
+      "id": 45,
+      "name": "First Class Flight (NY-LA)",
+      "price_usd": 2500,
+      "image": "first_class.jpg",
+      "description": "Luxury air travel experience.",
+      "category": "travel"
+    },
+    {
+      "id": 46,
+      "name": "Bitcoin (1 BTC)",
+      "price_usd": 40000,
+      "image": "bitcoin.jpg",
+      "description": "One whole Bitcoin cryptocurrency.",
+      "category": "crypto"
+    },
+    {
+      "id": 47,
+      "name": "Ethereum (1 ETH)",
+      "price_usd": 2500,
+      "image": "ethereum.jpg",
+      "description": "One Ethereum cryptocurrency.",
+      "category": "crypto"
+    },
+    {
+      "id": 48,
+      "name": "Lamborghini Huracan",
+      "price_usd": 261000,
+      "image": "lamborghini.jpg",
+      "description": "Exotic Italian supercar.",
+      "category": "vehicles"
+    }
+  ]
+}
