@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 1,
   "currencies": {
     "USD": 1.0,
     "EUR": 0.91,
@@ -70,18 +70,6 @@
       "name": "Steve Ballmer",
       "net_worth_usd": 122000000000,
       "image": "steve_ballmer.jpg"
-    },
-    {
-      "id": 11,
-      "name": "Mukesh Ambani",
-      "net_worth_usd": 95000000000,
-      "image": "mukesh_ambani.jpg"
-    },
-    {
-      "id": 12,
-      "name": "Gautam Adani",
-      "net_worth_usd": 85000000000,
-      "image": "gautam_adani.jpg"
     }
   ],
   "items": [
@@ -444,30 +432,6 @@
       "image": "first_class.jpg",
       "description": "Luxury air travel experience.",
       "category": "travel"
-    },
-    {
-      "id": 46,
-      "name": "Bitcoin (1 BTC)",
-      "price_usd": 40000,
-      "image": "bitcoin.jpg",
-      "description": "One whole Bitcoin cryptocurrency.",
-      "category": "crypto"
-    },
-    {
-      "id": 47,
-      "name": "Ethereum (1 ETH)",
-      "price_usd": 2500,
-      "image": "ethereum.jpg",
-      "description": "One Ethereum cryptocurrency.",
-      "category": "crypto"
-    },
-    {
-      "id": 48,
-      "name": "Lamborghini Huracan",
-      "price_usd": 261000,
-      "image": "lamborghini.jpg",
-      "description": "Exotic Italian supercar.",
-      "category": "vehicles"
     }
   ]
 }
