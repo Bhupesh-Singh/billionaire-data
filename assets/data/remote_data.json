@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "currencies": {
     "USD": 1.0,
     "EUR": 0.91,
@@ -432,6 +432,14 @@
       "image": "first_class.jpg",
       "description": "Luxury air travel experience.",
       "category": "travel"
+    },
+     {
+      "id": 48,
+      "name": "Lamborghini Huracan",
+      "price_usd": 261000,
+      "image": "lamborghini.jpg",
+      "description": "Exotic Italian supercar.",
+      "category": "vehicles"
     }
   ]
 }
