@@ -13,19 +13,19 @@
     {
       "id": 1,
       "name": "Elon Musk",
-      "net_worth_usd": 245000000000,
+      "net_worth_usd": 450000000000,
       "image": "elon_musk.jpg"
     },
     {
       "id": 10,
       "name": "MrBeast",
-      "net_worth_usd": 120000000,
+      "net_worth_usd": 1000000000,
       "image": "mrbeast.jpg"
     },
     {
       "id": 11,
       "name": "Cristiano Ronaldo",
-      "net_worth_usd": 600000000,
+      "net_worth_usd": 1500000000,
       "image": "ronaldo.jpg"
     },
     {
@@ -61,7 +61,7 @@
     {
       "id": 12,
       "name": "Lionel Messi",
-      "net_worth_usd": 650000000,
+      "net_worth_usd": 850000000,
       "image": "messi.jpg"
     },
     {
