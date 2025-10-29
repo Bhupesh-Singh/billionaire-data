@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 3,
   "currencies": {
     "USD": 1.0,
     "EUR": 0.92,
@@ -12,25 +12,25 @@
   "billionaires": [
     {
       "id": 1,
-      "name": "Elly: Tech Billionaire",
+      "name": "Elly - Tech Billionaire",
       "net_worth_usd": 450000000000,
-      "image": "elon_musk.png"
+      "image": "elon_musk.jpg"
     },
     {
       "id": 10,
-      "name": "Mr: YouTube Legend",
+      "name": "Mr - YouTube Legend",
       "net_worth_usd": 1000000000,
       "image": "mrbeast.png"
     },
     {
       "id": 11,
-      "name": "Christ:  GOAT Footballer",
+      "name": "Christ -  GOAT Footballer",
       "net_worth_usd": 1500000000,
       "image": "ronaldo.png"
     },
     {
       "id": 13,
-      "name": "Ginger: Mr President",
+      "name": "Ginger - Mr President",
       "net_worth_usd": 7000000000,
       "image": "donald_trump.png"
     },
@@ -42,7 +42,7 @@
     },
     {
       "id": 4,
-      "name": "Swifty: Famous Singer",
+      "name": "Swifty - Famous Singer",
       "net_worth_usd": 1600000000,
       "image": "taylor_swift.png"
     },
@@ -60,7 +60,7 @@
     },
     {
       "id": 12,
-      "name": "Leo: Football Legend",
+      "name": "Leo - Football Legend",
       "net_worth_usd": 850000000,
       "image": "messi.jpg"
     },
