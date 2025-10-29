@@ -12,27 +12,27 @@
   "billionaires": [
     {
       "id": 1,
-      "name": "Elon Musk",
+      "name": "Elly: Tech Billionaire",
       "net_worth_usd": 450000000000,
-      "image": "elon_musk.jpg"
+      "image": "elon_musk.png"
     },
     {
       "id": 10,
-      "name": "MrBeast",
+      "name": "Mr: YouTube Legend",
       "net_worth_usd": 1000000000,
-      "image": "mrbeast.jpg"
+      "image": "mrbeast.png"
     },
     {
       "id": 11,
-      "name": "Cristiano Ronaldo",
+      "name": "Christ:  GOAT Footballer",
       "net_worth_usd": 1500000000,
-      "image": "ronaldo.jpg"
+      "image": "ronaldo.png"
     },
     {
       "id": 13,
-      "name": "Donald Trump",
+      "name": "Ginger: Mr President",
       "net_worth_usd": 7000000000,
-      "image": "donald_trump.jpg"
+      "image": "donald_trump.png"
     },
     {
       "id": 14,
@@ -42,9 +42,9 @@
     },
     {
       "id": 4,
-      "name": "Tayolor Swift",
+      "name": "Swifty: Famous Singer",
       "net_worth_usd": 1600000000,
-      "image": "taylor_swift.jpg"
+      "image": "taylor_swift.png"
     },
     {
       "id": 15,
@@ -60,7 +60,7 @@
     },
     {
       "id": 12,
-      "name": "Lionel Messi",
+      "name": "Leo: Football Legend",
       "net_worth_usd": 850000000,
       "image": "messi.jpg"
     },
