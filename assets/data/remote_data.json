@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "currencies": {
     "USD": 1.0,
     "EUR": 0.92,
@@ -81,6 +81,14 @@
     "category": "food"
   },
   {
+    "id": 101,
+    "name": "Paper Clip",
+    "price_usd": 1,
+    "image": "paperclip.jpg",
+    "description": "A simple metal paper clip.",
+    "category": "office"
+  },
+  {
     "id": 33,
     "name": "Nintendo Switch OLED",
     "price_usd": 379,
@@ -88,6 +96,14 @@
     "description": "Portable gaming console.",
     "category": "electronics"
   },
+  {
+  "id": 54,
+  "name": "VR Headset",
+  "price_usd": 899,
+  "image": "vr_headset.jpeg",
+  "description": "Immersive VR headset with 4K resolution and motion tracking.",
+  "category": "electronics"
+},
   {
     "id": 11,
     "name": "Premier League Club",
@@ -103,6 +119,14 @@
     "image": "pizza.jpg",
     "description": "Large pepperoni pizza with sides.",
     "category": "food"
+  },
+  {
+    "id": 62,
+    "name": "Smart Door Lock",
+    "price_usd": 299,
+    "image": "smart_lock.jpg",
+    "description": "Keyless biometric home entry system.",
+    "category": "home"
   },
   {
     "id": 21,
@@ -121,6 +145,14 @@
     "category": "vehicles"
   },
   {
+    "id": 55,
+    "name": "VR Gaming Chair",
+    "price_usd": 2200,
+    "image": "vr_chair.jpg",
+    "description": "Immersive motion-enabled gaming chair.",
+    "category": "electronics"
+  },
+  {
     "id": 37,
     "name": "Dyson Airwrap",
     "price_usd": 649,
@@ -135,6 +167,14 @@
     "image": "skyscraper.jpg",
     "description": "A 60-story office tower in Manhattan.",
     "category": "real_estate"
+  },
+  {
+    "id": 73,
+    "name": "Luxury Camping Tent",
+    "price_usd": 4800,
+    "image": "luxury_tent.png",
+    "description": "Fully furnished premium outdoor tent.",
+    "category": "travel"
   },
   {
     "id": 35,
@@ -161,6 +201,14 @@
     "category": "vehicles"
   },
   {
+    "id": 84,
+    "name": "Golden Keyboard",
+    "price_usd": 15000,
+    "image": "gold_keyboard.jpeg",
+    "description": "24K gold-plated luxury keyboard.",
+    "category": "luxury"
+  },
+  {
     "id": 29,
     "name": "Big Mac",
     "price_usd": 6.25,
@@ -183,6 +231,14 @@
     "image": "rolex.jpg",
     "description": "Iconic luxury watch.",
     "category": "luxury"
+  },
+  {
+    "id": 95,
+    "name": "Coffee Machine",
+    "price_usd": 899,
+    "image": "coffee_machine.jpg",
+    "description": "Premium automatic espresso machine.",
+    "category": "home"
   },
   {
     "id": 10,
@@ -217,6 +273,14 @@
     "category": "luxury"
   },
   {
+    "id": 107,
+    "name": "Robot Dog",
+    "price_usd": 7500,
+    "image": "robot_dog.jpg",
+    "description": "AI-powered robotic pet companion.",
+    "category": "technology"
+  },
+  {
     "id": 8,
     "name": "Fighter Jet",
     "price_usd": 120000000,
@@ -239,6 +303,14 @@
     "image": "macbook.jpg",
     "description": "Most powerful MacBook Pro with M3 Max chip.",
     "category": "electronics"
+  },
+  {
+    "id": 58,
+    "name": "Smart Mirror",
+    "price_usd": 3300,
+    "image": "smart_mirror.jpg",
+    "description": "Touchscreen mirror with health tracking.",
+    "category": "home"
   },
   {
     "id": 3,
@@ -271,6 +343,14 @@
     "image": "gaming_pcs.jpg",
     "description": "High-end gaming rig with RTX 5090.",
     "category": "electronics"
+  },
+  {
+    "id": 112,
+    "name": "Luxury Pen",
+    "price_usd": 2500,
+    "image": "luxury_pen.jpg",
+    "description": "Handcrafted fountain pen with gold nib.",
+    "category": "luxury"
   },
   {
     "id": 44,
@@ -311,6 +391,14 @@
     "image": "first_class.jpg",
     "description": "Luxury air travel experience.",
     "category": "travel"
+  },
+  {
+    "id": 119,
+    "name": "Electric Scooter",
+    "price_usd": 699,
+    "image": "electric_scooter.jpeg",
+    "description": "Portable urban commuting scooter.",
+    "category": "vehicles"
   },
   {
     "id": 14,
