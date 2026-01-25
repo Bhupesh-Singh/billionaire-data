@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "currencies": {
     "USD": 1.0,
     "EUR": 0.92,
@@ -13,7 +13,7 @@
     {
       "id": 1,
       "name": "Elly - Tech Billionaire",
-      "net_worth_usd": 450000000000,
+      "net_worth_usd": 700000000000,
       "image": "elon_musk.jpg"
     },
     {
